@@ -4,7 +4,7 @@
   "branch": "main",
   "hashMode": true,
   "address": "",
-  "password": "admin",
+  "password": "",
   "port": 7777,
   "email": "",
   "mailConfig": {

@@ -102,7 +102,7 @@
 5、打开 https://hyq2019.github.io/nav 就能看到一个非常强大的导航网站了。
 
 如果打开 404，请打开 https://github.com/hyq2019/nav/settings/pages 检查分支是否是 **gh-pages**。
-------token-----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
+------token-----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
 #### Netlify 推荐(免费)
 
 打包路径 `dist/browser`
